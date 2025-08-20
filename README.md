@@ -1,16 +1,10 @@
 \# phisiotherapy\_survey
 
-\*\*Projeto Integrador I - Universidade Federal de Santa Catarina\*\*
+**Projeto Integrador I - Universidade Federal de Santa Catarina**
 
-
-
-\## PT: 
-
+### PT: 
 Questionário de avaliação de qualidade para Fisioterapeutas
 
-
-
-\## EN:
-
+### EN:
 Quality evaluation survey for Phisiotherapists
 
